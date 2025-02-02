@@ -1,13 +1,11 @@
-<p align="center">
-    <h1 align="center">CoreTax #DownloadButton</h1>
-    <p align="center">Jalanin script js di-console HANYA untuk cetak halaman? Ngapain?!</p>
-</p>
-
-Repositori ini mengandung kode ekstensi Chrome pada berkas `chrome-extension`.
-
-*Disclaimer: ini adalah ekstensi Chrome dengan kode sumber terbuka yang tidak terafiliasi dengan CoreTax/DJP.*
+<div align="center">
+    <h3 align="center">CoreTax #DownloadButton</h1>
+    <p align="center">Chrome Extension &amp; Firefox Add-on untuk cetak halaman CoreTax.</p>
+</div>
 
 ---
+
+> Disclaimer: ini adalah ekstensi Chrome dengan kode sumber terbuka yang tidak terafiliasi dengan CoreTax/DJP.
 
 ## License
 
