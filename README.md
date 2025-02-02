@@ -6,3 +6,9 @@
 Repositori ini mengandung kode ekstensi Chrome pada berkas `chrome-extension`.
 
 *Disclaimer: ini adalah ekstensi Chrome dengan kode sumber terbuka yang tidak terafiliasi dengan CoreTax/DJP.*
+
+---
+
+## License
+
+MIT License.
