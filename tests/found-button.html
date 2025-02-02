@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Found Button in Page</title>
+    </head>
+    <body>
+        <button id="DownloadButton" data-index="1">Print 1</button>
+        <button id="DownloadButton" data-index="2">Print 2</button>
+        <button id="DownloadButton" data-index="3">Print 3</button>
+        <button id="DownloadButton" data-index="4">Print 4</button>
+
+        <script>
+            const buttons = document.querySelectorAll('#DownloadButton');
+            buttons.forEach(button => {
+                button.addEventListener('click', () => {
+                    const index = button.getAttribute('data-index');
+                    console.log(`Print ${index}`);
+                });
+            });
+        </script>
+    </body>
+</html>

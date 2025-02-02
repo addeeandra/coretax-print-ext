@@ -1,0 +1,20 @@
+{
+    "manifest_version": 3,
+    "name": "CoreTax #DownloadButton (unofficial)",
+    "version": "1.0",
+    "description": "Jalanin script js di-console HANYA untuk cetak halaman di CoreTax? Sudah ga perlu lagi!",
+    "permissions": ["activeTab", "scripting"],
+    "action": {
+      "default_popup": "index.html",
+      "default_icon": {
+        "16": "icon16.png",
+        "48": "icon48.png",
+        "128": "icon128.png"
+      }
+    },
+    "icons": {
+      "16": "icon16.png",
+      "48": "icon48.png",
+      "128": "icon128.png"
+    }
+  }
